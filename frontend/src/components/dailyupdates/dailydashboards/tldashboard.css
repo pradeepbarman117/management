@@ -1,0 +1,39 @@
+.leads-container {
+    padding: 10px;
+    display: grid;
+    gap: 16px;
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: repeat(10, max-content);
+}
+
+
+@media screen and (max-width:1200px) {
+    .leads-container {
+    grid-template-columns: repeat(4, 1fr); 
+    }
+}
+
+@media screen and (max-width:991px) {
+    .leads-container {
+    grid-template-columns: repeat(3, 1fr); 
+    }
+}
+
+@media screen and (max-width:767px) {
+    .leads-container {
+    grid-template-columns: repeat(2, 1fr); 
+    }
+}
+
+@media screen and (max-width:450px) {
+    .leads-container {
+    grid-template-columns: repeat(1, 1fr); 
+    }
+    .css-zxdg2z {
+        padding: 10px;
+    }
+    
+    .css-1nsbll6-MuiPaper-root{
+        padding: 0;
+    }
+}

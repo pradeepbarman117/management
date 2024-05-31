@@ -1,0 +1,4 @@
+[
+    { "id": 1, "empId": "EMP001", "name": "John Doe", "projectTask": "Project A", "description": "Worked on Project A tasks", "priority": "High", "status": "Completed", "remarks": "", "startDate": "2024-05-10", "endDate": "2024-05-15" },
+    { "id": 2, "empId": "EMP002", "name": "Jane Smith", "projectTask": "Task B", "description": "Completed Task B", "priority": "Medium", "status": "In Progress", "remarks": "", "startDate": "2024-05-11", "endDate": "2024-05-14" }
+]

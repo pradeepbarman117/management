@@ -1,0 +1,99 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+*, body, html {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+body {
+  background-color: #f1f2f4 !important;
+}
+
+.showTable .project-details {
+  display: block;
+}
+
+.showTable .leads-list {
+  display: none;
+}
+
+
+
+/* General Table Styling */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  /* margin: 20px 0; */
+  font-size: 1em;
+  text-align: left;
+  background-color: #fff;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+th, td {
+  padding: 12px 15px;
+}
+
+/* Table Header Styling */
+thead tr {
+  background-color: #1876d2;
+  color: #ffffff;
+  text-align: left;
+  font-weight: bold;
+}
+
+/* Table Body Row Styling */
+tbody tr {
+  border-bottom: 1px solid #dddddd;
+}
+
+tbody tr:nth-of-type(even) {
+  background-color: #ffffff;
+}
+
+tbody tr:nth-of-type(odd) {
+  background-color: #e9f4ff;
+}
+
+/* tbody tr:last-of-type {
+  border-bottom: 2px solid #009879;
+} */
+
+/* Table Cell Hover Effect */
+tbody tr:hover {
+  background-color: #a4cdf6;
+  cursor: pointer;
+}
+
+/* Additional Styles */
+thead th {
+  background-color: #1875d2;
+  color: #fff !important;
+}
+
+tbody td {
+  font-size: 0.9em;
+  color: #333333;
+}
+
+/* Priority Cell Color Coding */
+td:nth-child(6) {
+  font-weight: bold;
+}
+
+td:nth-child(6):contains('High') {
+  color: #d9534f;
+}
+
+td:nth-child(6):contains('Medium') {
+  color: #f0ad4e;
+}
+
+td:nth-child(6):contains('Low') {
+  color: #5cb85c;
+}

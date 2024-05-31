@@ -1,0 +1,397 @@
+[
+    {
+      "date": "2 December 2023",
+      "tasks": [
+        {
+          "project": "Zlaata",
+          "teamMembers": [
+            {
+              "name": "Sheshnath Chauhan",
+              "description": "Worked on Zlaata Jira Issues",
+              "status": "9 Issues, 3 reopened",
+              "priority": "High",
+              "topicOfDiscussion": ""
+            },
+            {
+              "name": "Pradeep K Burman",
+              "description": "Worked on Zlaata Jira Issues",
+              "status": "",
+              "priority": "High",
+              "topicOfDiscussion": ""
+            },
+            {
+              "name": "Ujjawal K Dhwaj",
+              "description": "On Leave",
+              "status": "",
+              "priority": "High",
+              "topicOfDiscussion": ""
+            },
+            {
+              "name": "Koustav K Das",
+              "description": "Worked on Zlaata Jira Issues",
+              "status": "",
+              "priority": "High",
+              "topicOfDiscussion": ""
+            },
+            {
+              "name": "Sri Vishnu Varthan",
+              "description": "Worked on Zlaata Jira Issues",
+              "status": "",
+              "priority": "High",
+              "topicOfDiscussion": ""
+            }
+          ]
+        },
+        {
+          "project": "Training",
+          "teamMembers": [
+            {
+              "name": "Noone Deekshith",
+              "description": "Creating a Layout using HTML, CSS, GSAP and Basic JS",
+              "status": "Ongoing",
+              "priority": "Low",
+              "topicOfDiscussion": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "3 December 2023",
+      "tasks": [
+        {
+          "project": "New Project 1",
+          "teamMembers": [
+            {
+              "name": "Sheshnath Chauhan",
+              "description": "Lorem ipsum dolor sit amet",
+              "status": "In progress",
+              "priority": "Medium",
+              "topicOfDiscussion": "Meeting with client"
+            },
+            {
+              "name": "Pradeep K Burman",
+              "description": "Consectetur adipiscing elit",
+              "status": "Completed",
+              "priority": "High",
+              "topicOfDiscussion": ""
+            }
+          ]
+        },
+        {
+          "project": "New Project 2",
+          "teamMembers": [
+            {
+              "name": "Ujjawal K Dhwaj",
+              "description": "Sed do eiusmod tempor incididunt",
+              "status": "Pending",
+              "priority": "Low",
+              "topicOfDiscussion": "Project kickoff meeting"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "4 December 2023",
+      "tasks": [
+        {
+          "project": "Project XYZ",
+          "teamMembers": [
+            {
+              "name": "Sheshnath Chauhan",
+              "description": "Worked on XYZ Jira Issues",
+              "status": "10 Issues resolved",
+              "priority": "High",
+              "topicOfDiscussion": ""
+            },
+            {
+              "name": "Pradeep K Burman",
+              "description": "Attended client meeting",
+              "status": "Meeting minutes sent",
+              "priority": "High",
+              "topicOfDiscussion": ""
+            }
+          ]
+        },
+        {
+          "project": "New Feature Development",
+          "teamMembers": [
+            {
+              "name": "Ujjawal K Dhwaj",
+              "description": "Implemented new feature",
+              "status": "Testing in progress",
+              "priority": "Medium",
+              "topicOfDiscussion": "Feature deployment plan"
+            },
+            {
+              "name": "Koustav K Das",
+              "description": "Reviewed code changes",
+              "status": "Code review completed",
+              "priority": "High",
+              "topicOfDiscussion": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "5 December 2023",
+      "tasks": [
+        {
+          "project": "Project ABC",
+          "teamMembers": [
+            {
+              "name": "Sheshnath Chauhan",
+              "description": "Meeting with stakeholders",
+              "status": "Feedback received",
+              "priority": "High",
+              "topicOfDiscussion": ""
+            },
+            {
+              "name": "Pradeep K Burman",
+              "description": "Documented project requirements",
+              "status": "Draft in progress",
+              "priority": "High",
+              "topicOfDiscussion": ""
+            }
+          ]
+        },
+        {
+          "project": "Bug Fixes",
+          "teamMembers": [
+            {
+              "name": "Ujjawal K Dhwaj",
+              "description": "Resolved critical bugs",
+              "status": "Testing pending",
+              "priority": "High",
+              "topicOfDiscussion": ""
+            },
+            {
+              "name": "Koustav K Das",
+              "description": "Identified root cause of bug",
+              "status": "Fix in progress",
+              "priority": "High",
+              "topicOfDiscussion": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "6 December 2023",
+      "tasks": [
+        {
+          "project": "New UI Design",
+          "teamMembers": [
+            {
+              "name": "Sheshnath Chauhan",
+              "description": "Created wireframes",
+              "status": "Review pending",
+              "priority": "Medium",
+              "topicOfDiscussion": "Design feedback session"
+            },
+            {
+              "name": "Pradeep K Burman",
+              "description": "Finalized color palette",
+              "status": "Approved",
+              "priority": "High",
+              "topicOfDiscussion": ""
+            }
+          ]
+        },
+        {
+          "project": "API Integration",
+          "teamMembers": [
+            {
+              "name": "Ujjawal K Dhwaj",
+              "description": "Integrated third-party API",
+              "status": "Integration testing in progress",
+              "priority": "Medium",
+              "topicOfDiscussion": "Data validation strategy"
+            },
+            {
+              "name": "Koustav K Das",
+              "description": "Implemented API endpoints",
+              "status": "Code review pending",
+              "priority": "High",
+              "topicOfDiscussion": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "7 December 2023",
+      "tasks": [
+        {
+          "project": "Marketing Campaign",
+          "teamMembers": [
+            {
+              "name": "Sheshnath Chauhan",
+              "description": "Drafted email content",
+              "status": "Review pending",
+              "priority": "High",
+              "topicOfDiscussion": "Campaign launch plan"
+            },
+            {
+              "name": "Pradeep K Burman",
+              "description": "Designed promotional banners",
+              "status": "Finalizing",
+              "priority": "High",
+              "topicOfDiscussion": ""
+            }
+          ]
+        },
+        {
+          "project": "Client Presentation",
+          "teamMembers": [
+            {
+              "name": "Ujjawal K Dhwaj",
+              "description": "Prepared slides",
+              "status": "Review pending",
+              "priority": "High",
+              "topicOfDiscussion": "Presentation structure"
+            },
+            {
+              "name": "Koustav K Das",
+              "description": "Gathered data for presentation",
+              "status": "Data analysis in progress",
+              "priority": "High",
+              "topicOfDiscussion": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "8 December 2023",
+      "tasks": [
+        {
+          "project": "Product Enhancement",
+          "teamMembers": [
+            {
+              "name": "Sheshnath Chauhan",
+              "description": "Identified user pain points",
+              "status": "Analysis completed",
+              "priority": "High",
+              "topicOfDiscussion": ""
+            },
+            {
+              "name": "Pradeep K Burman",
+              "description": "Designed new feature",
+              "status": "Draft in progress",
+              "priority": "High",
+              "topicOfDiscussion": ""
+            }
+          ]
+        },
+        {
+          "project": "Content Creation",
+          "teamMembers": [
+            {
+              "name": "Ujjawal K Dhwaj",
+              "description": "Wrote blog articles",
+              "status": "Review pending",
+              "priority": "Medium",
+              "topicOfDiscussion": "Content strategy"
+            },
+            {
+              "name": "Koustav K Das",
+              "description": "Created social media posts",
+              "status": "Finalizing",
+              "priority": "Medium",
+              "topicOfDiscussion": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "9 December 2023",
+      "tasks": [
+        {
+          "project": "Client Meeting",
+          "teamMembers": [
+            {
+              "name": "Sheshnath Chauhan",
+              "description": "Prepared agenda",
+              "status": "Agenda finalized",
+              "priority": "High",
+              "topicOfDiscussion": ""
+            },
+            {
+              "name": "Pradeep K Burman",
+              "description": "Arranged meeting venue",
+              "status": "Venue booked",
+              "priority": "High",
+              "topicOfDiscussion": ""
+            }
+          ]
+        },
+        {
+          "project": "Documentation",
+          "teamMembers": [
+            {
+              "name": "Ujjawal K Dhwaj",
+              "description": "Wrote project documentation",
+              "status": "In progress",
+              "priority": "Low",
+              "topicOfDiscussion": "Documentation format"
+            },
+            {
+              "name": "Koustav K Das",
+              "description": "Reviewed documentation",
+              "status": "Review pending",
+              "priority": "Low",
+              "topicOfDiscussion": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "10 December 2023",
+      "tasks": [
+        {
+          "project": "Project Management",
+          "teamMembers": [
+            {
+              "name": "Sheshnath Chauhan",
+              "description": "Organized project tasks",
+              "status": "In progress",
+              "priority": "High",
+              "topicOfDiscussion": ""
+            },
+            {
+              "name": "Pradeep K Burman",
+              "description": "Assigned tasks to team members",
+              "status": "Task allocation completed",
+              "priority": "High",
+              "topicOfDiscussion": ""
+            }
+          ]
+        },
+        {
+          "project": "Research & Development",
+          "teamMembers": [
+            {
+              "name": "Ujjawal K Dhwaj",
+              "description": "Conducted market research",
+              "status": "Analysis completed",
+              "priority": "Medium",
+              "topicOfDiscussion": "Research findings"
+            },
+            {
+              "name": "Koustav K Das",
+              "description": "Explored new technologies",
+              "status": "Exploration in progress",
+              "priority": "Medium",
+              "topicOfDiscussion": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+  
