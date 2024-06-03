@@ -169,7 +169,7 @@ export default function MiniDrawer() {
             <Typography variant="h6" noWrap component="div">
               TaskCentral
             </Typography>
-            <Avatar alt="Travis Howard" src="https://mui.com/static/images/avatar/2.jpg" />
+            {/* <Avatar alt="Travis Howard" src="https://mui.com/static/images/avatar/2.jpg" /> */}
           </Box>
         </Toolbar>
       </AppBar>
@@ -214,7 +214,7 @@ export default function MiniDrawer() {
             </ListItemIcon>
             <ListItemText primary=" TL And Manager" />
           </ListItem>
-          <ListItem
+          {/* <ListItem
             button
             onClick={() => handleTabClick('Drafts')}
             selected={selectedTab === 'Drafts'}
@@ -223,10 +223,10 @@ export default function MiniDrawer() {
               <InboxIcon />
             </ListItemIcon>
             <ListItemText primary="Drafts" />
-          </ListItem>
+          </ListItem> */}
         </List>
         <Divider />
-        <List>
+       {/* < <List>
           <ListItem
             button
             onClick={() => handleTabClick('All mail')}
@@ -257,7 +257,7 @@ export default function MiniDrawer() {
             </ListItemIcon>
             <ListItemText primary="Spam" />
           </ListItem>
-        </List>
+        </List>> */}
       </Drawer>
       <Box component="main" sx={{ flexGrow: 1, p: 3 }}>
         <DrawerHeader />
